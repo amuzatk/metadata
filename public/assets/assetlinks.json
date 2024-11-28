@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vendorstack",
+      "sha256_cert_fingerprints": [
+        "F6:69:C5:0C:BA:CD:4F:5B:C8:AC:7D:5F:83:7B:F5:41:7B:98:0E:C4:F8:91:25:1D:B4:80:F5:25:DE:18:BD:82"
+      ]
+    }
+  }
+]

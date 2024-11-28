@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "TLKPUR6X95.com.vendorstackapp",
+        "paths": ["*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["TLKPUR6X95.com.vendorstackapp"]
+  }
+}
